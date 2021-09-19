@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "license": "UNLICENSED",
+  "name": "s3-website",
+  "version": "0.0.0",
+  "homepage": "https://upstream.s3-website.pl-waw.scw.cloud",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilfalse/s3-website.git"
+  },
+  "author": "Yaroslav Ilin",
+  "dependencies": {},
+  "devDependencies": {}
+}
